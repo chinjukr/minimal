@@ -10,7 +10,7 @@ Enthusiastic learner of Artificial Intelligence and ML from Upgrad IIT-B
 
 4 years of Experience in web development (php,mysql)
 
-# PROJECT 1
+# PROJECT 1 FRAUD DETECTION ANALYSIS
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
