@@ -4,7 +4,7 @@ layout: default
 
 
 
-[Link to another page](./another-page.html).
+[Link to Linkedin](.https://www.linkedin.com/in/chinju-k-raveendran-9a788464/).
 
 Enthusiastic learner of Artificial Intelligence and ML from Upgrad IIT-B
 
