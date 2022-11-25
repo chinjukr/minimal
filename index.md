@@ -2,9 +2,9 @@
 layout: default
 ---
 
+<a href="[https://www.w3schools.com](https://www.linkedin.com/in/chinju-k-raveendran-9a788464)">Link to Linkedin</a>
 
 
-[Link to Linkedin](https://www.linkedin.com/in/chinju-k-raveendran-9a788464/).
 
 Enthusiastic learner of Artificial Intelligence and ML from Upgrad IIT-B
 
